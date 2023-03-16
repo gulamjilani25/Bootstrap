@@ -1,0 +1,101 @@
+bootstrap 
+---------------------
+1) install bt
+	1) download (offline)
+	2) CDN (online)
+2) bt responsive layout
+3) container box
+	container
+	container-fluid
+	row
+	col-lg-1
+	col-lg-2 -12
+		...72
+border
+---------
+	border
+	border-top
+	border-right
+	border-bottom
+	border-left
+heading
+-----------
+	h1
+	h2
+	h3
+	...h6
+align
+------------
+	text-right
+	text-left
+	text-center
+	text-justify
+color
+------------
+	primary
+	info
+	danger
+	success
+	light
+	dark
+	
+font color (text, prefix)
+---------------
+	text-primary
+	text-danger
+		all color
+
+background color (bg, prefix)
+-------------------
+	bg-primary
+		all color
+--------------------------------------------
+grid system
+================
+Extra small (xs)
+Small (sm)
+Medium (md)
+Large (lg)
+Extra large (xl)
+Extra extra large (xxl)
+-------------------------------
+columns
+=======================
+	col-xs-1
+	col-xs-2
+		..12
+	col-sm-1
+	col-sm-2
+		..12
+--------------------------------
+alignment
+======================
+	text-center
+	text-start
+	text-end
+	text-justify
+----------------------------
+heading
+=================
+h1
+h2
+h3
+h4
+h5
+h6
+
+----------------------------
+margin/ padding
+======================
+	m  (1,2,3,4,5,6)
+	p   (1,2,3,4,5,6)
+	
+	mt-1
+	mb-1
+	ml-1
+	mr-1
+
+
+
+	
+	
